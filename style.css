@@ -4,6 +4,7 @@ body {
     color: #191919;
     font-family: 'Work Sans', sans-serif;
     margin-left: 80px;
+    background-color: #000000
 }
 
 img {
@@ -348,7 +349,7 @@ a:hover, a:active {
 # Portfolio
 --------------------------------------------------------------*/
 .portfolio-page .scroll-down {
-    margin-left: 60px;
+    margin-left: 20px;
 }
 
 .portfolio-content {
@@ -677,7 +678,7 @@ a:hover, a:active {
 .blog-page .blog-content .posted-by {
     margin-top: 10px;
     color: #595959;
-    font-size: 0.875rem;
+    font-size: 30px;
 }
 
 .blog-page .blog-content .posted-on {
